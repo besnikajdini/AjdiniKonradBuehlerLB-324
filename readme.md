@@ -4,7 +4,7 @@
 Erklären Sie hier, wie man `pre-commit` installiert.
 
 ## Aufgabe 4
-**Laufende Applikation:** ajdinikonradbuehler-lb324-cdenatcuase9erct.germanywestcentral-01.azurewebsites.net
+**Laufende Applikation:** https://ajdinikonradbuehler-lb324-cdenatcuase9erct.germanywestcentral-01.azurewebsites.net
 
 ### Passwort aus der `.env` auf Azure übertragen
 1. Im Azure Portal unter **App Services** die Applikation `ajdinikonradbuehler-lb324` öffnen.
